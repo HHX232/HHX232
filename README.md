@@ -28,7 +28,7 @@ const myStack = {
   framework: "Next.js (App Router + Pages Router)",
   language: "TypeScript",
   ui: "React, Tailwind CSS, Shadcn/ui, Framer Motion",
-  state: "Zustand / Redux Toolkit, React Query",
+  state: "Redux Toolkit, React Query",
   cms: "Strapi, Sanity, WordPress as Headless",
   testing: "Jest, React Testing Library, Cypress",
   tools: "Git, Vercel, Figma, Webpack/Vite"
