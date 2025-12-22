@@ -6,6 +6,11 @@ With **4+ years of professional experience** in high-end frontend development, I
 
 ---
 
+**💬 Preferred contacts:**
+- **Telegram:** [@HHX232](https://t.me/HHX232) — fastest response
+- **Email:** [tisevichnikita82@gmail.com](mailto:tisevichnikita82@gmail.com)
+
+---
 ## 💼 What I Do Best
 
 ### 🌐 **International E-commerce & Marketplaces**
